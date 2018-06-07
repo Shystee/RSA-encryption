@@ -1,0 +1,30 @@
+C:\Users\armin\Desktop\Armino\c#\RsaSolution\RsaClient\bin\Debug\RsaClient.exe.config
+C:\Users\armin\Desktop\Armino\c#\RsaSolution\RsaClient\bin\Debug\RsaClient.exe
+C:\Users\armin\Desktop\Armino\c#\RsaSolution\RsaClient\bin\Debug\RsaClient.pdb
+C:\Users\armin\Desktop\Armino\c#\RsaSolution\RsaClient\obj\Debug\MainWindow.g.cs
+C:\Users\armin\Desktop\Armino\c#\RsaSolution\RsaClient\obj\Debug\App.g.cs
+C:\Users\armin\Desktop\Armino\c#\RsaSolution\RsaClient\obj\Debug\RsaClient_MarkupCompile.cache
+C:\Users\armin\Desktop\Armino\c#\RsaSolution\RsaClient\obj\Debug\RsaClient_MarkupCompile.lref
+C:\Users\armin\Desktop\Armino\c#\RsaSolution\RsaClient\obj\Debug\MainWindow.baml
+C:\Users\armin\Desktop\Armino\c#\RsaSolution\RsaClient\obj\Debug\RsaClient.g.resources
+C:\Users\armin\Desktop\Armino\c#\RsaSolution\RsaClient\obj\Debug\RsaClient.Properties.Resources.resources
+C:\Users\armin\Desktop\Armino\c#\RsaSolution\RsaClient\obj\Debug\RsaClient.csproj.GenerateResource.Cache
+C:\Users\armin\Desktop\Armino\c#\RsaSolution\RsaClient\obj\Debug\RsaClient.csproj.CoreCompileInputs.cache
+C:\Users\armin\Desktop\Armino\c#\RsaSolution\RsaClient\obj\Debug\RsaClient.exe
+C:\Users\armin\Desktop\Armino\c#\RsaSolution\RsaClient\obj\Debug\RsaClient.pdb
+C:\Users\armin\Desktop\Armino\c#\RsaSolution\RsaClient\obj\Debug\RsaClient.csprojResolveAssemblyReference.cache
+C:\Users\armin\Desktop\Armino\KOLEGIJA\2K2S\Informacijos saugumas\RsaSolution\RsaClient\bin\Debug\RsaClient.exe.config
+C:\Users\armin\Desktop\Armino\KOLEGIJA\2K2S\Informacijos saugumas\RsaSolution\RsaClient\bin\Debug\RsaClient.exe
+C:\Users\armin\Desktop\Armino\KOLEGIJA\2K2S\Informacijos saugumas\RsaSolution\RsaClient\bin\Debug\RsaClient.pdb
+C:\Users\armin\Desktop\Armino\KOLEGIJA\2K2S\Informacijos saugumas\RsaSolution\RsaClient\obj\Debug\RsaClient.csprojResolveAssemblyReference.cache
+C:\Users\armin\Desktop\Armino\KOLEGIJA\2K2S\Informacijos saugumas\RsaSolution\RsaClient\obj\Debug\MainWindow.g.cs
+C:\Users\armin\Desktop\Armino\KOLEGIJA\2K2S\Informacijos saugumas\RsaSolution\RsaClient\obj\Debug\App.g.cs
+C:\Users\armin\Desktop\Armino\KOLEGIJA\2K2S\Informacijos saugumas\RsaSolution\RsaClient\obj\Debug\RsaClient_MarkupCompile.cache
+C:\Users\armin\Desktop\Armino\KOLEGIJA\2K2S\Informacijos saugumas\RsaSolution\RsaClient\obj\Debug\RsaClient_MarkupCompile.lref
+C:\Users\armin\Desktop\Armino\KOLEGIJA\2K2S\Informacijos saugumas\RsaSolution\RsaClient\obj\Debug\MainWindow.baml
+C:\Users\armin\Desktop\Armino\KOLEGIJA\2K2S\Informacijos saugumas\RsaSolution\RsaClient\obj\Debug\RsaClient.g.resources
+C:\Users\armin\Desktop\Armino\KOLEGIJA\2K2S\Informacijos saugumas\RsaSolution\RsaClient\obj\Debug\RsaClient.Properties.Resources.resources
+C:\Users\armin\Desktop\Armino\KOLEGIJA\2K2S\Informacijos saugumas\RsaSolution\RsaClient\obj\Debug\RsaClient.csproj.GenerateResource.Cache
+C:\Users\armin\Desktop\Armino\KOLEGIJA\2K2S\Informacijos saugumas\RsaSolution\RsaClient\obj\Debug\RsaClient.csproj.CoreCompileInputs.cache
+C:\Users\armin\Desktop\Armino\KOLEGIJA\2K2S\Informacijos saugumas\RsaSolution\RsaClient\obj\Debug\RsaClient.exe
+C:\Users\armin\Desktop\Armino\KOLEGIJA\2K2S\Informacijos saugumas\RsaSolution\RsaClient\obj\Debug\RsaClient.pdb
